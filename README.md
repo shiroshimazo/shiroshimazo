@@ -2,7 +2,7 @@
 
 
 <div>
-  <img src="https://github.com/Jrmyln-sh/Jrmyln-sh/blob/main/Profile.png" width="128" height="128" align="left" />
+  <img src="https://github.com/Jrmyln-sh/Jrmyln-sh/blob/main/Profile.jpg" width="128" height="128" align="left" />
 </div>
 
 ```diff
