@@ -8,7 +8,7 @@
 ```diff
 NAME: Jeremy Malana
 
-I am a 18-year-old Student of ICT1202 BestLink College Of The Philippines.
+I am a 19-year-old Student of BSIT-1105BestLink College Of The Philippines.
 ```
 
 <p align="left">
