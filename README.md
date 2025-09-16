@@ -1,7 +1,7 @@
 <p>‎</p>
 
 <div>
-  <img src="https://github.com/Jrmyln-sh/Jrmyln-sh/blob/main/GITHUB%20BANNER.jpg" align="center" />
+  <img src="https://github.com/Jrmyln-sh/Jrmyln-sh/blob/main/banner.jpg" align="center" />
 </div>
 
 
