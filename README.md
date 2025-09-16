@@ -4,10 +4,7 @@
   <img src="https://github.com/Jrmyln-sh/Jrmyln-sh/blob/main/banner.jpg" align="center" />
 </div>
 
-
-<div>
-  <img src="https://github.com/Jrmyln-sh/Jrmyln-sh/blob/main/Profile.jpg" width="128" height="128" align="left" />
-</div>
+<br>
 
 ```diff
 NAME: Jeremy Malana
