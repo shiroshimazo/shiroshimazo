@@ -2,7 +2,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap" rel="stylesheet">
 <p>‎</p>
-<div>
+<div align="center">
 
 ![FromKlickPinCFPostbykaijurawr1image_HorrormovieartCharacterdesignHorrorart-ezgif com-crop (1)](https://github.com/user-attachments/assets/0fee9d84-0a4b-43d7-9e90-b775b59c0823)
 
