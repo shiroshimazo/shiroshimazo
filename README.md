@@ -7,11 +7,7 @@
 
 <br>
 
-```diff
-NAME: Jeremy Malana
 
-I am a 19-year-old Student of BSIT-1105BestLink College Of The Philippines.
-```
 
 <p align="left" style="font-family: 'Rubik Mono One', monospace;">
 
