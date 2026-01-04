@@ -1,6 +1,3 @@
-
-
-bash
 $ cefetch
 
 <table> <tr> <td width="45%" align="center"> <img src="logo.png" width="260" alt="Logo" /> </td> <td width="55%"><pre>
