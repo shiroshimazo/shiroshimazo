@@ -2,7 +2,7 @@ $ winfetch
 
 <table> <tr> <td width="100%" align="center"> <img src="logo.png" width="560" alt="Logo" /> </td> <td width="100%"><pre>
 
-jrmyln@sh
+shiroshimazo@sh
 ───────────────────────────────────────────────
 Uptime: 19 years
 Programming Languages: C, C++, Java
