@@ -1,6 +1,6 @@
 $ winfetch
 
-<table> <tr> <td width="100%" align="center"> <img src="logo.png" width="260" alt="Logo" /> </td> <td width="100%"><pre>
+<table> <tr> <td width="100%" align="center"> <img src="logo.png" width="560" alt="Logo" /> </td> <td width="100%"><pre>
 
 jrmyln@sh
 ───────────────────────────────────────────────
