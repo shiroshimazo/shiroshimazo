@@ -1,23 +1,24 @@
-$ cefetch
+$ winfetch
 
 <table> <tr> <td width="45%" align="center"> <img src="logo.png" width="260" alt="Logo" /> </td> <td width="55%"><pre>
 
-user@github
-───────────────
-Uptime: 18 years
-Programming languages: Python, C++
-OS: Arch Linux
-DE: KDE Plasma
-WM: i3
-Shell: Zsh
-Editor: Vim / VS Code
-Hobby: hip hop, football, gaming
-Other: OII 2021 finalist
+jrmyln@sh
+───────────────────────────────────────────────
+Uptime: 19 years
+Programming Languages: C, C++, Java
+Frontend Languages: HTML, CSS
+Others: Git, Vs Code, MySQL
+OS: Windows 11
+Edu: Ongoing 1st yr College
+Shell: cmd
+Editor: VS Code
+Hobby: Gaming, Writting, Designing
+Other: OJT of the Year
 
-contacts
-────────
-Telegram: t.me/yourusername
-Reddit: u/yourusername
-Email: your@email.com
+Contacts
+────────────────────────────────────────────────
+Instagram: jrmymlna
+Discord: discord.gg/_shiroshima
+Email: jrmymlna@gmail.com
 
 </pre></td> </tr> </table>
