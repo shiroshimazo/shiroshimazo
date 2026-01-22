@@ -8,9 +8,9 @@ Uptime: 19 years
 Programming Languages: C, C++, Java
 Frontend Languages: HTML, CSS
 Others: Git, Vs Code, MySQL
-OS: Windows 11
+OS: Windows 11, Ubuntu (Hyprland)
 Edu: Ongoing 1st yr College
-Shell: cmd
+Shell: zsh
 Editor: VS Code
 Hobby: Gaming, Writting, Designing
 Other: OJT of the Year
@@ -19,6 +19,6 @@ Contacts
 ────────────────────────────────────────────────
 Instagram: jrmymlna
 Discord: discord.gg/_shiroshima
-Email: jrmymlna@gmail.com
+Email: shiroshiimazo@gmail.com
 
 </pre></td> </tr> </table>
