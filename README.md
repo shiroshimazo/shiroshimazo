@@ -6,7 +6,7 @@ shiroshimazo@sh
 ───────────────────────────────────────────────
 Uptime: 19 years
 Programming Languages: C, C++, Java
-Frontend: HTML, CSS, React
+Frontend: HTML, CSS, React, JavaScript
 Backend: Supabase
 Others: Git, Vs Code, MySQL
 OS: Windows 11, Ubuntu (Hyprland)
