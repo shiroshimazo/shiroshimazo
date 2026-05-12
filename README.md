@@ -10,7 +10,7 @@ Frontend: HTML, CSS, React, JavaScript
 Backend: Supabase
 Others: Git, Vs Code, MySQL
 OS: Windows 11, Ubuntu (Hyprland)
-Edu: Ongoing 1st yr College
+Edu: Ongoing 2nd yr College
 Shell: zsh
 Editor: VS Code
 Hobby: Gaming, Writting, Designing
