@@ -4,21 +4,21 @@ $ winfetch
 
 shiroshimazo@sh
 ───────────────────────────────────────────────
-Uptime: 19 years
+Uptime: 20 years
 Programming Languages: C, C++, Java
 Frontend: HTML, CSS, React, JavaScript
 Backend: Supabase
 Others: Git, Vs Code, MySQL
-OS: Windows 11, Ubuntu (Hyprland)
-Edu: Ongoing 2nd yr College
+OS: Windows 11, Arch Linux (Hyprland)
+Edu: Ongoing 2nd yr College (1st Sem)
 Shell: zsh
 Editor: VS Code
 Hobby: Gaming, Writting, Designing
-Other: OJT of the Year
+Other: OJT of the Year (2023-2024)
 
 Contacts
 ────────────────────────────────────────────────
-Instagram: jrmymlna
+Instagram: jrmy.xsh
 Discord: discord.gg/_shiroshima
 Email: shiroshiimazo@gmail.com
 
